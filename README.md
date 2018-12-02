@@ -4,6 +4,10 @@ Solutions for the Advent of Code 2018 challenges.
 
 Participate yourself at [Advent of Code](https://adventofcode.com/2018) site.
 
+## Completion Status ##
+
+4 out of 50 🌟 gathered.
+
 ### Disclaimer ###
 
 The solutions in this repo are written by a Python noob (me) and the only goal
