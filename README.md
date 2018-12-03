@@ -6,7 +6,7 @@ Participate yourself at [Advent of Code](https://adventofcode.com/2018) site.
 
 ## Completion Status ##
 
-4 out of 50 🌟 gathered.
+5 out of 50 🌟 gathered.
 
 ### Disclaimer ###
 
