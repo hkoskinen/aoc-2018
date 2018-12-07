@@ -48,8 +48,3 @@ while len(starts) > 0:
   starts = sorted(starts)
 
 print(''.join(final))
-
-# HPDTNXYLOCGEQSIMABZKRUW = 23
-# HPDTNXYLOCGEQSIMABZKRUWVFJ = 26
-
-# normal enlish alphabet count is 26 A-Z
